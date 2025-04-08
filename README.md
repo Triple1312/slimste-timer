@@ -1,16 +1,10 @@
 # smt
 
-A new Flutter project.
+A timer web app to play the Belgian game "Slimste mens"
 
-## Getting Started
+# Slimste Mens
 
-This project is a starting point for a Flutter application.
+Slimste Mens is a Dutch game show where contestants answer trivia questions in a limited time. The game consists of several rounds, each with its own rules and challenges. The goal is to be the last contestant remaining by answering questions correctly and eliminating opponents.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Card Game was created to play the game with friends. The game consists of a deck of cards with trivia questions and answers. Players take turns drawing cards and answering questions. If a player answers correctly, they keep the card. If they answer incorrectly, they must return the card to the deck. The game continues until all cards have been drawn or one player has collected all the cards.
+This Game does require timers. This simple web app provides a digital version of them.
